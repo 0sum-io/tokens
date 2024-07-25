@@ -11,6 +11,14 @@
   "keywords": [],
   "tokens": [
     {
+      "name": "Wrapped Pepe Unchained",
+      "address": "0x5984B8BF2d4dB9C0aCB1d7924762e4474D80C807",
+      "symbol": "WPEPEU",
+      "decimals": 18,
+      "chainId": 20314,
+      "logoURI": "https://github-production-user-asset-6210df.s3.amazonaws.com/19412160/351765267-3a7169a6-2a15-4ff2-a1b8-83286a389005.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240725%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240725T183233Z&X-Amz-Expires=300&X-Amz-Signature=ad6adee9440cd9ab46d201347f39ba306e612daa85c5579307853c1124a490b3&X-Amz-SignedHeaders=host&actor_id=19412160&key_id=0&repo_id=469822878"
+    },
+    {
       "name": "Token A",
       "address": "0x5984B8BF2d4dB9C0aCB1d7924762e4474D80C807",
       "symbol": "TKNA",
