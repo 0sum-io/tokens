@@ -1,0 +1,30 @@
+{
+  "name": "Token List",
+  "timestamp": "2077-01-01T11:11:11.111Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://www.gelato.network/brand-assets/GEL_Token_Logos/GEL%20Token%20Logo.png",
+  "keywords": [],
+  "tokens": [
+    {
+      "name": "Token A",
+      "address": "0xF9Cf4A16d26979b929Be7176bAc4e7084975FCB8",
+      "symbol": "TKNA",
+      "decimals": 18,
+      "chainId": 123420111,
+      "logoURI": "https://github.com/0sum-io/erc20-A-B/assets/19412160/94af28ca-8d6b-4cde-be26-b8136c5c4b61"
+    },
+    {
+      "name": "Token B",
+      "address": "0x5984B8BF2d4dB9C0aCB1d7924762e4474D80C807",
+      "symbol": "TKNB",
+      "decimals": 18,
+      "chainId": 123420111,
+      "logoURI": "https://github.com/0sum-io/erc20-A-B/assets/19412160/196c68d7-3503-46f8-b8fe-ac7b3853a409"
+    }
+  ]
+}
