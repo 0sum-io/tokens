@@ -6,7 +6,22 @@
     "minor": 0,
     "patch": 0
   },
-  "tags": {},
+  "tags": {
+    "v3CoreFactoryAddress": "0x4EB8aA84c066f9bf210eAfE33B30AE49BfafD9a6",
+    "multicall2Address": "0xD9De6d945F8191F44356cE6924Bbd3b6a2250b0C",
+    "proxyAdminAddress": "0x5e7cda0b5F1d239e6eA03BEAEE12008Ba4184782",
+    "tickLensAddress": "0xe2060CbdE18b5e765c86e5Cd6EE68AF209a9faa7",
+    "nftDescriptorLibraryAddressV1_3_0": "0xFE406d6c3fc0BB3a6D195b089eFADfc8658206D5",
+    "nonfungibleTokenPositionDescriptorAddressV1_3_0": "0x27d50A564F75364EEd33Ba0B7E987d22CD556449",
+    "descriptorProxyAddress": "0x0a875d1C72cb4e1CD61401c3C49f85Df45071f83",
+    "nonfungibleTokenPositionManagerAddress": "0xd647b2D80b48e93613Aa6982b85f8909578b4829",
+    "v3MigratorAddress": "0x150c3F0f16C3D9EB34351d7af9c961FeDc97A0fb",
+    "v3StakerAddress": "0xB461c05f76d7f919FF7A3Df2B0D2593F56538b4B",
+    "quoterV2Address": "0xF4347e5ebC916805ccC228095f4554C64ebC5b18",
+    "swapRouter02": "0x0dE72b751b77d3c74fB96C5fAd0320Cd8d133d36",
+    "permit2": "0xd9FA53bD9a745C209E1EB87ADA8eDd430B5e83A4",
+    "universalRouter": "0xf8f54f1221222401a1fc510480c3d82bed1c1f04"
+  },
   "logoURI": "https://github.com/user-attachments/assets/e759ac10-d55b-42b5-a5d6-3f7c2dd97eb1",
   "keywords": [],
   "tokens": [
