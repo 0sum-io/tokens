@@ -24,9 +24,9 @@
   "keywords": [],
   "tokens": [
     {
-      "name": "Wrapped Ether",
+      "name": "Wrapped Anime",
       "address": "0x8f3e2785985Aa4005c63f97f7Cc89Ce91A948267",
-      "symbol": "WETH",
+      "symbol": "WANIME",
       "decimals": 18,
       "chainId": 6900,
       "logoURI": "https://github.com/user-attachments/assets/df15e212-d9d5-4eac-aaa2-561b1664445b"
