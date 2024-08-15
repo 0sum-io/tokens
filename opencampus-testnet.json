@@ -32,12 +32,20 @@
       "logoURI": "https://cryptologos.cc/logos/open-campus-edu-logo.png"
     },
     {
+      "name": "USDC",
+      "address": "0x77721D19BDfc67fe8cc46ddaa3cc4C94e6826E3C",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 656476,
+      "logoURI": "https://github.com/0sum-io/erc20-A-B/assets/19412160/94af28ca-8d6b-4cde-be26-b8136c5c4b61"
+    },
+    {
       "name": "Token A",
       "address": "0xF9Cf4A16d26979b929Be7176bAc4e7084975FCB8",
       "symbol": "TKNA",
       "decimals": 18,
       "chainId": 656476,
-      "logoURI": "https://github.com/0sum-io/erc20-A-B/assets/19412160/94af28ca-8d6b-4cde-be26-b8136c5c4b61"
+      "logoURI": "https://cryptologos.cc/logos/open-campus-edu-logo.png"
     },
     {
       "name": "Token B",
