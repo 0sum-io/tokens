@@ -23,6 +23,14 @@
   "logoURI": "https://github.com/user-attachments/assets/028ed0ee-274c-4985-8d15-1ebe9bafd275",
   "keywords": [],
   "tokens": [
+     {
+      "name": "Abyss",
+      "address": "0x58F375e1F2FA27a775Eb02745317089586D460cc",
+      "symbol": "ABYSS",
+      "decimals": 18,
+      "chainId": 229772,
+      "logoURI": "https://raw.githubusercontent.com/AbyssProtocol/assets/main/icon.png"
+    },
     {
       "name": "Wrapped Ether",
       "address": "0x4200000000000000000000000000000000000006",
@@ -31,21 +39,5 @@
       "chainId": 229772,
       "logoURI": "https://github.com/user-attachments/assets/d06af92b-3680-4fae-960e-c2d69417582b"
     },
-    {
-      "name": "Token A",
-      "address": "0xF9Cf4A16d26979b929Be7176bAc4e7084975FCB8",
-      "symbol": "TKNA",
-      "decimals": 18,
-      "chainId": 229772,
-      "logoURI": "https://github.com/0sum-io/erc20-A-B/assets/19412160/94af28ca-8d6b-4cde-be26-b8136c5c4b61"
-    },
-    {
-      "name": "Token B",
-      "address": "0x5984B8BF2d4dB9C0aCB1d7924762e4474D80C807",
-      "symbol": "TKNB",
-      "decimals": 18,
-      "chainId": 229772,
-      "logoURI": "https://github.com/0sum-io/erc20-A-B/assets/19412160/196c68d7-3503-46f8-b8fe-ac7b3853a409"
-    }
   ]
 }
