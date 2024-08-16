@@ -23,7 +23,7 @@
 ```
 
 - [Verify JSON ](https://jsonlint.com/)
-- Update version number
+- Update `version` number
 
 ```json
 "version": {
