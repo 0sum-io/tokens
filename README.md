@@ -1,7 +1,6 @@
 # Token Lists
 
 - Submit a PR or create a public repo
-- Add or remove `tokens[]`
 - `tokens` must have the following values:
   - name: string
   - address: string
