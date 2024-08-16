@@ -22,7 +22,6 @@
 ]
 ```
 
-- [Verify JSON ](https://jsonlint.com/)
 - Update `version` number
 
 ```json
@@ -32,3 +31,5 @@
   "patch": 1 <-----
 },
 ```
+
+- [Verify JSON ](https://jsonlint.com/)
