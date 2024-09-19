@@ -48,7 +48,7 @@
       "decimals": 18,
       "chainId": 20314,
       "logoURI": "https://github.com/0sum-io/erc20-A-B/assets/19412160/196c68d7-3503-46f8-b8fe-ac7b3853a409"
-    }
+    },
     {
       "name": "Tether USD",
       "address": "0x4f957e108130052849bf81151c6e4c51d5187de1",
