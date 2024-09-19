@@ -39,7 +39,7 @@
       "symbol": "TKNA",
       "decimals": 18,
       "chainId": 20314,
-      "logoURI": "https://github.com/0sum-io/erc20-A-B/assets/19412160/94af28ca-8d6b-4cde-be26-b8136c5c4b61"
+      "logoURI": "https://github.com/user-attachments/assets/b793ff17-802f-44f3-aff2-41ba9523d514"
     },
     {
       "name": "Token B",
@@ -48,6 +48,14 @@
       "decimals": 18,
       "chainId": 20314,
       "logoURI": "https://github.com/0sum-io/erc20-A-B/assets/19412160/196c68d7-3503-46f8-b8fe-ac7b3853a409"
+    }
+    {
+      "name": "Tether USD",
+      "address": "0x4f957e108130052849bf81151c6e4c51d5187de1",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 20314,
+      "logoURI": "https://github.com/user-attachments/assets/13b633c6-5633-481c-940e-9d1474a20bfd"
     }
   ]
 }
