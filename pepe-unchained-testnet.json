@@ -39,7 +39,7 @@
       "symbol": "TKNA",
       "decimals": 18,
       "chainId": 20314,
-      "logoURI": "https://github.com/user-attachments/assets/b793ff17-802f-44f3-aff2-41ba9523d514"
+      "logoURI": "https://i.imgur.com/6uOCvTi.png"
     },
     {
       "name": "Token B",
@@ -55,7 +55,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 20314,
-      "logoURI": "https://github.com/user-attachments/assets/13b633c6-5633-481c-940e-9d1474a20bfd"
+      "logoURI": "https://i.imgur.com/XjEgHtw.png"
     }
   ]
 }
