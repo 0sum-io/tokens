@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {
     "v3CoreFactoryAddress": "0xbe4C021F8fD2be76dBE9DA6a000221ac6893aA3d",
@@ -29,7 +29,7 @@
       "symbol": "WO",
       "decimals": 18,
       "chainId": 84841,
-      "logoURI": "https://github.com/user-attachments/assets/30aabac7-3e6e-4aa1-a4a9-6a143f519dea"
+      "logoURI": "https://s3.us-east-2.amazonaws.com/assets.rollbridge.app/5ea9a6d9904ededbbb9b8.png"
     },
     {
       "name": "Tether USD",
