@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {
     "v3CoreFactoryAddress": "0xbe4C021F8fD2be76dBE9DA6a000221ac6893aA3d",
@@ -29,7 +29,7 @@
       "symbol": "WO",
       "decimals": 18,
       "chainId": 84841,
-      "logoURI": "https://github.com/user-attachments/assets/e759ac10-d55b-42b5-a5d6-3f7c2dd97eb1"
+      "logoURI": "https://github.com/user-attachments/assets/30aabac7-3e6e-4aa1-a4a9-6a143f519dea"
     },
     {
       "name": "Tether USD",
