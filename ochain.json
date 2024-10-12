@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {
     "v3CoreFactoryAddress": "0xbe4C021F8fD2be76dBE9DA6a000221ac6893aA3d",
@@ -20,17 +20,9 @@
     "quoterV2Address": "0xB461c05f76d7f919FF7A3Df2B0D2593F56538b4B",
     "swapRouter02": "0xF4347e5ebC916805ccC228095f4554C64ebC5b18"
   },
-  "logoURI": "https://pbs.twimg.com/profile_images/1840684322849693697/xyNrTTUG_400x400.png",
+  "logoURI": "https://github.com/user-attachments/assets/d7afb388-992e-439f-ba2d-3d773a4c9201",
   "keywords": [],
   "tokens": [
-    {
-      "name": "Wrapped O Token",
-      "address": "0x927af2a6B76d2d8206d93004463F8C122701383B",
-      "symbol": "WO",
-      "decimals": 18,
-      "chainId": 84841,
-      "logoURI": "https://github.com/user-attachments/assets/d7afb388-992e-439f-ba2d-3d773a4c9201"
-    },
     {
       "name": "Tether USD",
       "address": "0x91D70c3Adde2f0f0C4fB0b2De69f37a7c7E326DF",
