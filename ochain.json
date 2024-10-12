@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "tags": {
     "v3CoreFactoryAddress": "0xbe4C021F8fD2be76dBE9DA6a000221ac6893aA3d",
@@ -23,6 +23,14 @@
   "logoURI": "https://github.com/user-attachments/assets/d7afb388-992e-439f-ba2d-3d773a4c9201",
   "keywords": [],
   "tokens": [
+    {
+      "name": "Wrapped O Token",
+      "address": "0x927af2a6B76d2d8206d93004463F8C122701383B",
+      "symbol": "WO",
+      "decimals": 18,
+      "chainId": 84841,
+      "logoURI": "https://github.com/user-attachments/assets/d7afb388-992e-439f-ba2d-3d773a4c9201"
+    },
     {
       "name": "Tether USD",
       "address": "0x91D70c3Adde2f0f0C4fB0b2De69f37a7c7E326DF",
