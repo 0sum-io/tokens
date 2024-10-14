@@ -4,29 +4,29 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 5
+    "patch": 6
   },
   "tags": {
-    "v3CoreFactoryAddress": "0xbe4C021F8fD2be76dBE9DA6a000221ac6893aA3d",
-    "multicall2Address": "0xC428059E5e2DdB7DbBfb32034EcdF43D171B54CB",
-    "proxyAdminAddress": "0xD9De6d945F8191F44356cE6924Bbd3b6a2250b0C",
-    "tickLensAddress": "0x5e7cda0b5F1d239e6eA03BEAEE12008Ba4184782",
-    "nftDescriptorLibraryAddressV1_3_0": "0xe2060CbdE18b5e765c86e5Cd6EE68AF209a9faa7",
-    "nonfungibleTokenPositionDescriptorAddressV1_3_0": "0xFE406d6c3fc0BB3a6D195b089eFADfc8658206D5",
-    "descriptorProxyAddress": "0x27d50A564F75364EEd33Ba0B7E987d22CD556449",
-    "nonfungibleTokenPositionManagerAddress": "0x0a875d1C72cb4e1CD61401c3C49f85Df45071f83",
-    "v3MigratorAddress": "0xd647b2D80b48e93613Aa6982b85f8909578b4829",
-    "v3StakerAddress": "0x3A3eD1Bd12753DB00f5C34C69f2ae6E78eacDb74",
-    "quoterV2Address": "0xB461c05f76d7f919FF7A3Df2B0D2593F56538b4B",
-    "swapRouter02": "0xF4347e5ebC916805ccC228095f4554C64ebC5b18"
+    "v3CoreFactoryAddress": "0x5402b6a602AbCdc4DF0f1475C44220E025fAc9B2",
+    "multicall2Address": "0xEAc89B68CdcB68ea749224079C92E004DB4950cf",
+    "proxyAdminAddress": "0x5E02B5f037bEA01A9398162E8573448AaDF1d082",
+    "tickLensAddress": "0x0E0A03A67128A50dAd15F939799AadC3CA80616e",
+    "nftDescriptorLibraryAddressV1_3_0": "0x4867C0D2559f5fDc09279fD96189E782A2923943",
+    "nonfungibleTokenPositionDescriptorAddressV1_3_0": "0xd51e7187e54a4A22D790f8bbDdd9B54b891Bc920",
+    "descriptorProxyAddress": "0x0cb3cF298f2C72B1785c4B573a837f39Ec0544f6",
+    "nonfungibleTokenPositionManagerAddress": "0x96F922980e5ad8Cd85CE2F57C984d3d46eC8a285",
+    "v3MigratorAddress": "0xF13D96d600Fb27B5f34D9cfc1B3CB68f8dcaa62f",
+    "v3StakerAddress": "0x5DCb9354273383266E0Ba7A8322662BB4B09Dee7",
+    "quoterV2Address": "0x0880484412B5bAa18B3fa2904a500c08f0fE79D2",
+    "swapRouter02": "0x660C85710a1cd10e8345BB30C80A49f661486007"
   },
   "logoURI": "https://github.com/user-attachments/assets/d7afb388-992e-439f-ba2d-3d773a4c9201",
   "keywords": [],
   "tokens": [
     {
       "name": "Wrapped O Token",
-      "address": "0x927af2a6B76d2d8206d93004463F8C122701383B",
-      "symbol": "WO",
+      "address": "0xc7C3cff325c6976965edfEB05c024584e4e4BBDD",
+      "symbol": "wO",
       "decimals": 18,
       "chainId": 84841,
       "logoURI": "https://github.com/user-attachments/assets/d7afb388-992e-439f-ba2d-3d773a4c9201"
