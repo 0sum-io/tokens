@@ -1,0 +1,59 @@
+{
+  "name": "Token List",
+  "timestamp": "2077-01-01T11:11:11.111Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    "v3CoreFactoryAddress": "0xF9Cf4A16d26979b929Be7176bAc4e7084975FCB8",
+    "multicall2Address": "0x001281C9d8F134F0dD15EBFe4D1011800403a8f7",
+    "proxyAdminAddress": "0x927af2a6B76d2d8206d93004463F8C122701383B",
+    "tickLensAddress": "0xbe4C021F8fD2be76dBE9DA6a000221ac6893aA3d",
+    "nftDescriptorLibraryAddressV1_3_0": "0x4EB8aA84c066f9bf210eAfE33B30AE49BfafD9a6",
+    "nonfungibleTokenPositionDescriptorAddressV1_3_0": "0xC428059E5e2DdB7DbBfb32034EcdF43D171B54CB",
+    "descriptorProxyAddress": "0xD9De6d945F8191F44356cE6924Bbd3b6a2250b0C",
+    "nonfungibleTokenPositionManagerAddress": "0x5e7cda0b5F1d239e6eA03BEAEE12008Ba4184782",
+    "v3MigratorAddress": "0xe2060CbdE18b5e765c86e5Cd6EE68AF209a9faa7",
+    "v3StakerAddress": "0x27d50A564F75364EEd33Ba0B7E987d22CD556449",
+    "quoterV2Address": "0x0a875d1C72cb4e1CD61401c3C49f85Df45071f83",
+    "swapRouter02": "0xd647b2D80b48e93613Aa6982b85f8909578b4829"
+  },
+  "logoURI": "https://github.com/user-attachments/assets/e759ac10-d55b-42b5-a5d6-3f7c2dd97eb1",
+  "keywords": [],
+  "tokens": [
+    {
+      "name": "Wrapped Pepe Unchained",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WPEPU",
+      "decimals": 18,
+      "chainId": 3409,
+      "logoURI": "https://github.com/user-attachments/assets/e759ac10-d55b-42b5-a5d6-3f7c2dd97eb1"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xFa6882945A345d6b74e87A8d810d3B9dD3043162",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 3409,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x77a61f53e0F78ae464CF041F36a9C6bc35A68fe9",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 3409,
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x8bF1e294Bd76d0Ef0f0C9cc2B6F28456c99A360F",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 3409,
+      "logoURI": "https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg"
+    }
+  ]
+}
