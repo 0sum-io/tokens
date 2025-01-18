@@ -32,6 +32,14 @@
       "logoURI": "https://avatars.githubusercontent.com/u/139797706"
     },
     {
+      "name": "Oro",
+      "address": "0x5a47EF9C19dae206e99382955eb9eD5ca510A7Fa",
+      "symbol": "ORO",
+      "decimals": 18,
+      "chainId": 1336,
+      "logoURI": "https://avatars.githubusercontent.com/u/139797706"
+    },
+    {
       "name": "Token A",
       "address": "0x0dE72b751b77d3c74fB96C5fAd0320Cd8d133d36",
       "symbol": "TKNA",
