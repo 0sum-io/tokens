@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {
     "v3CoreFactoryAddress": "0x5984B8BF2d4dB9C0aCB1d7924762e4474D80C807",
@@ -20,7 +20,7 @@
     "quoterV2Address": "0xd647b2D80b48e93613Aa6982b85f8909578b4829",
     "swapRouter02": "0x150c3F0f16C3D9EB34351d7af9c961FeDc97A0fb"
   },
-  "logoURI": "https://cryptocurrencyjobs.co/startups/assets/logos/kiichain.01b7925bd67a06d54b8023424090e539b87d59c6597393244e193547c0e8786e_hu12006127192317437045.jpg",
+  "logoURI": "https://avatars.githubusercontent.com/u/139797706",
   "keywords": [],
   "tokens": [
     {
@@ -29,7 +29,7 @@
       "symbol": "WKII",
       "decimals": 18,
       "chainId": 1336,
-      "logoURI": "https://cryptocurrencyjobs.co/startups/assets/logos/kiichain.01b7925bd67a06d54b8023424090e539b87d59c6597393244e193547c0e8786e_hu12006127192317437045.jpg"
+      "logoURI": "https://avatars.githubusercontent.com/u/139797706"
     },
     {
       "name": "Token A",
