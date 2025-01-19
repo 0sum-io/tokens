@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {
     "v3CoreFactoryAddress": "0x5984B8BF2d4dB9C0aCB1d7924762e4474D80C807",
@@ -20,7 +20,7 @@
     "quoterV2Address": "0xd647b2D80b48e93613Aa6982b85f8909578b4829",
     "swapRouter02": "0x150c3F0f16C3D9EB34351d7af9c961FeDc97A0fb"
   },
-  "logoURI": "https://github.com/user-attachments/assets/f367d660-e065-42de-b7f7-f6f442f2d1da",
+  "logoURI": "https://github.com/user-attachments/assets/74bd2d3b-6849-42b6-ab7c-a9c7a93e472d",
   "keywords": [],
   "tokens": [
     {
@@ -29,7 +29,7 @@
       "symbol": "WETN",
       "decimals": 18,
       "chainId": 5201420,
-      "logoURI": "https://github.com/user-attachments/assets/f367d660-e065-42de-b7f7-f6f442f2d1da"
+      "logoURI": "https://github.com/user-attachments/assets/74bd2d3b-6849-42b6-ab7c-a9c7a93e472d"
     },
     {
       "name": "Token A",
