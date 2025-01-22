@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "tags": {
     "v3CoreFactoryAddress": "0x96F922980e5ad8Cd85CE2F57C984d3d46eC8a285",
@@ -32,24 +32,16 @@
       "logoURI": "https://avatars.githubusercontent.com/u/139797706"
     },
     {
-      "name": "Oro",
-      "address": "0x5a47EF9C19dae206e99382955eb9eD5ca510A7Fa",
-      "symbol": "ORO",
-      "decimals": 18,
-      "chainId": 1336,
-      "logoURI": "https://avatars.githubusercontent.com/u/139797706"
-    },
-    {
       "name": "Token A",
-      "address": "0x0dE72b751b77d3c74fB96C5fAd0320Cd8d133d36",
+      "address": "0x1cfdDaBf00E6847677D9E4841C7A03c473447e60",
       "symbol": "TKNA",
       "decimals": 18,
       "chainId": 1336,
-      "logoURI": "https://github.com/0sum-io/erc20-A-B/assets/19412160/94af28ca-8d6b-4cde-be26-b8136c5c4b61"
+      "logoURI": "https://github.com/user-attachments/assets/3b6b80e0-a3a6-4795-a196-f2893ebb5b7b"
     },
     {
       "name": "Token B",
-      "address": "0x27C608C46cb8d49677530F0e8B34b84eB917e481",
+      "address": "0x5CBc52e4d26437240D8EDbEd94cD3757473Ec32b",
       "symbol": "TKNB",
       "decimals": 18,
       "chainId": 1336,
