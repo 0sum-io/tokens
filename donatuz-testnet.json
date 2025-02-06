@@ -4,7 +4,7 @@
    "version":{
       "major":1,
       "minor":0,
-      "patch":6
+      "patch":7
    },
    "tags":{
       "v3CoreFactoryAddress":"0xF9Cf4A16d26979b929Be7176bAc4e7084975FCB8",
@@ -43,7 +43,7 @@
       },
       {
          "name":"Token B",
-         "address":"0x0dE72b751b77d3c74fB96C5fAd0320Cd8d133d36",
+         "address":"0x27C608C46cb8d49677530F0e8B34b84eB917e481",
          "symbol":"TKNB",
          "decimals":18,
          "chainId":42019,
