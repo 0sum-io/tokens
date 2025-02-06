@@ -1,0 +1,53 @@
+{
+   "name":"Token List",
+   "timestamp":"2077-01-01T11:11:11.111Z",
+   "version":{
+      "major":1,
+      "minor":0,
+      "patch":6
+   },
+   "tags":{
+      "v3CoreFactoryAddress":"0xF9Cf4A16d26979b929Be7176bAc4e7084975FCB8",
+      "multicall2Address":"0x001281C9d8F134F0dD15EBFe4D1011800403a8f7",
+      "proxyAdminAddress":"0x927af2a6B76d2d8206d93004463F8C122701383B",
+      "tickLensAddress":"0xbe4C021F8fD2be76dBE9DA6a000221ac6893aA3d",
+      "nftDescriptorLibraryAddressV1_3_0":"0x4EB8aA84c066f9bf210eAfE33B30AE49BfafD9a6",
+      "nonfungibleTokenPositionDescriptorAddressV1_3_0":"0xC428059E5e2DdB7DbBfb32034EcdF43D171B54CB",
+      "descriptorProxyAddress":"0xD9De6d945F8191F44356cE6924Bbd3b6a2250b0C",
+      "nonfungibleTokenPositionManagerAddress":"0x5e7cda0b5F1d239e6eA03BEAEE12008Ba4184782",
+      "v3MigratorAddress":"0xe2060CbdE18b5e765c86e5Cd6EE68AF209a9faa7",
+      "v3StakerAddress":"0x27d50A564F75364EEd33Ba0B7E987d22CD556449",
+      "quoterV2Address":"0x0a875d1C72cb4e1CD61401c3C49f85Df45071f83",
+      "swapRouter02":"0xd647b2D80b48e93613Aa6982b85f8909578b4829"
+   },
+   "logoURI":"https://github.com/user-attachments/assets/2e9462e6-69b2-40b3-a86e-fa39c0fddcdf",
+   "keywords":[
+      
+   ],
+   "tokens":[
+      {
+         "name":"Wrapped ETH",
+         "address":"0x4200000000000000000000000000000000000006",
+         "symbol":"WETH",
+         "decimals":18,
+         "chainId":42019,
+         "logoURI":"https://github.com/user-attachments/assets/2e9462e6-69b2-40b3-a86e-fa39c0fddcdf"
+      },
+      {
+         "name":"Token A",
+         "address":"0x0dE72b751b77d3c74fB96C5fAd0320Cd8d133d36",
+         "symbol":"TKNA",
+         "decimals":18,
+         "chainId":42019,
+         "logoURI":"https://github.com/user-attachments/assets/cbe92b1d-1813-4194-b63e-ee840952a4b2"
+      },
+      {
+         "name":"Token B",
+         "address":"0x0dE72b751b77d3c74fB96C5fAd0320Cd8d133d36",
+         "symbol":"TKNB",
+         "decimals":18,
+         "chainId":42019,
+         "logoURI":"https://github.com/user-attachments/assets/907d4dcc-e6f3-4ca2-be15-06bcb21bcd45"
+      }
+   ]
+}
