@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {
     "v3CoreFactoryAddress": "0x5984B8BF2d4dB9C0aCB1d7924762e4474D80C807",
@@ -32,20 +32,20 @@
       "logoURI": "https://github.com/user-attachments/assets/e759ac10-d55b-42b5-a5d6-3f7c2dd97eb1"
     },
     {
-      "name": "TokenA",
+      "name": "Tether USD",
       "address": "0x27C608C46cb8d49677530F0e8B34b84eB917e481",
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 97740,
-      "logoURI": "https://github.com/user-attachments/assets/dc94dc37-ba1c-4bb7-b88b-c289e9f080b4"
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
     },
     {
-      "name": "TokenB",
+      "name": "USD Coin",
       "address": "0xd9FA53bD9a745C209E1EB87ADA8eDd430B5e83A4",
       "symbol": "USDC",
       "decimals": 18,
       "chainId": 97740,
-      "logoURI": "https://github.com/user-attachments/assets/e3e1afeb-f166-4c18-92ad-7a4c9a90e958"
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png"
     }
   ]
 }
