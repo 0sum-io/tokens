@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {
     "v3CoreFactoryAddress": "0x5984B8BF2d4dB9C0aCB1d7924762e4474D80C807",
@@ -37,7 +37,7 @@
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 97740,
-      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+      "logoURI": "https://i.ibb.co/Jws51wd3/tether-usdt-logo.png"
     },
     {
       "name": "USD Coin",
@@ -45,7 +45,7 @@
       "symbol": "USDC",
       "decimals": 18,
       "chainId": 97740,
-      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png"
+      "logoURI": "https://i.ibb.co/WdZgV8R/usd-coin-usdc-logo.png"
     }
   ]
 }
