@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {
     "v3CoreFactoryAddress": "0x5984B8BF2d4dB9C0aCB1d7924762e4474D80C807",
@@ -25,7 +25,7 @@
   "tokens": [
     {
       "name": "Wrapped Pepe Unchained",
-      "address": "",
+      "address": "0xF9Cf4A16d26979b929Be7176bAc4e7084975FCB8",
       "symbol": "WPEPU",
       "decimals": 18,
       "chainId": 97740,
