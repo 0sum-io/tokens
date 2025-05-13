@@ -43,7 +43,7 @@
       "name": "USD Coin",
       "address": "0x0dE72b751b77d3c74fB96C5fAd0320Cd8d133d36",
       "symbol": "USDC",
-      "decimals": 6,
+      "decimals": 18,
       "chainId": 421614,
       "logoURI": "https://i.ibb.co/WdZgV8R/usd-coin-usdc-logo.png"
     }
