@@ -1,0 +1,51 @@
+{
+  "name": "Token List",
+  "timestamp": "2077-01-01T11:11:11.111Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {
+    "v3CoreFactoryAddress": "0x5984B8BF2d4dB9C0aCB1d7924762e4474D80C807",
+    "multicall2Address": "0x927af2a6B76d2d8206d93004463F8C122701383B",
+    "proxyAdminAddress": "0xbe4C021F8fD2be76dBE9DA6a000221ac6893aA3d",
+    "tickLensAddress": "0x4EB8aA84c066f9bf210eAfE33B30AE49BfafD9a6",
+    "nftDescriptorLibraryAddressV1_3_0": "0xC428059E5e2DdB7DbBfb32034EcdF43D171B54CB",
+    "nonfungibleTokenPositionDescriptorAddressV1_3_0": "0xD9De6d945F8191F44356cE6924Bbd3b6a2250b0C",
+    "descriptorProxyAddress": "0x5e7cda0b5F1d239e6eA03BEAEE12008Ba4184782",
+    "nonfungibleTokenPositionManagerAddress": "0xe2060CbdE18b5e765c86e5Cd6EE68AF209a9faa7",
+    "v3MigratorAddress": "0xFE406d6c3fc0BB3a6D195b089eFADfc8658206D5",
+    "v3StakerAddress": "0x0a875d1C72cb4e1CD61401c3C49f85Df45071f83",
+    "quoterV2Address": "0xd647b2D80b48e93613Aa6982b85f8909578b4829",
+    "swapRouter02": "0x150c3F0f16C3D9EB34351d7af9c961FeDc97A0fb"
+  },
+  "logoURI": "https://i.ibb.co/BvFQysD/MC-vertical-logo-no-bkgrnd-1.png",
+  "keywords": [],
+  "tokens": [
+    {
+      "name": "Wrapped MarsC",
+      "address": "0xF9Cf4A16d26979b929Be7176bAc4e7084975FCB8",
+      "symbol": "WMarsC",
+      "decimals": 18,
+      "chainId": 704851,
+      "logoURI": "https://i.ibb.co/BvFQysD/MC-vertical-logo-no-bkgrnd-1.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xDAE1CD660CA4941E96eb15Dd4E487A83b93b2257",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 704851,
+      "logoURI": "https://i.ibb.co/Jws51wd3/tether-usdt-logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x1d80318AfE290E3d74eE97AaA368caF1C0952C1f",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 704851,
+      "logoURI": "https://i.ibb.co/WdZgV8R/usd-coin-usdc-logo.png"
+    }
+  ]
+}
