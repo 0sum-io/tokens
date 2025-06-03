@@ -1,0 +1,48 @@
+{
+  "name": "Token List",
+  "timestamp": "2077-01-01T11:11:11.111Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+
+  },
+  "logoURI": "https://i.ibb.co/zTx6yg67/e759ac10-d55b-42b5-a5d6-3f7c2dd97eb1.png",
+  "keywords": [],
+  "tokens": [
+    {
+      "name": "Wrapped Pepe Unchained",
+      "address": "",
+      "symbol": "WPEPU",
+      "decimals": 18,
+      "chainId": 97741,
+      "logoURI": "https://i.ibb.co/zTx6yg67/e759ac10-d55b-42b5-a5d6-3f7c2dd97eb1.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 97741,
+      "logoURI": "https://i.ibb.co/tppynXCD/tether-usdt-logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 97741,
+      "logoURI": "https://i.ibb.co/RprxnvC5/usd-coin-usdc-logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 97741,
+      "logoURI": "https://i.ibb.co/BVNfLznd/eth.png"
+    }
+  ]
+}
