@@ -46,6 +46,14 @@
       "decimals": 6,
       "chainId": 704851,
       "logoURI": "https://i.ibb.co/WdZgV8R/usd-coin-usdc-logo.png"
+    },
+    {
+      "name": "Baby Mars",
+      "address": "0xd931eEdB3c9CDD3e3CA120B10B4aac74bB6ffdE4",
+      "symbol": "BBM",
+      "decimals": 18,
+      "chainId": 704851,
+      "logoURI": "https://i.ibb.co/27R9ryZx/BBM.png"
     }
   ]
 }
