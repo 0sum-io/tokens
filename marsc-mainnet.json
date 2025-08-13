@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {
     "v3CoreFactoryAddress": "0x5984B8BF2d4dB9C0aCB1d7924762e4474D80C807",
@@ -32,18 +32,26 @@
       "logoURI": "https://i.ibb.co/BvFQysD/MC-vertical-logo-no-bkgrnd-1.png"
     },
     {
-      "name": "Tether USD",
-      "address": "0xDAE1CD660CA4941E96eb15Dd4E487A83b93b2257",
+      "name": "MarsChain ETH",
+      "address": "0xDec433469841d4FAa70dCeE338620c6b11791EA4",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 704851,
+      "logoURI": "https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg"
+    },
+    {
+      "name": "MarsChain USDT",
+      "address": "0x0dBf12db9131ddc5156EccD135597315236C1261",
       "symbol": "USDT",
-      "decimals": 6,
+      "decimals": 18,
       "chainId": 704851,
       "logoURI": "https://i.ibb.co/Jws51wd3/tether-usdt-logo.png"
     },
     {
-      "name": "USD Coin",
-      "address": "0x1d80318AfE290E3d74eE97AaA368caF1C0952C1f",
-      "symbol": "USDC",
-      "decimals": 6,
+      "name": "MarsChain USDC",
+      "address": "0x97B980A2b5Caf42daaDdBB5716b64E3dfcCb5A17",
+      "symbol": "MarsChain USDC",
+      "decimals": 18,
       "chainId": 704851,
       "logoURI": "https://i.ibb.co/WdZgV8R/usd-coin-usdc-logo.png"
     },
@@ -51,6 +59,22 @@
       "name": "Baby Mars",
       "address": "0xd931eEdB3c9CDD3e3CA120B10B4aac74bB6ffdE4",
       "symbol": "BBM",
+      "decimals": 18,
+      "chainId": 704851,
+      "logoURI": "https://i.ibb.co/27R9ryZx/BBM.png"
+    },
+    {
+      "name": "MarsChain MCD",
+      "address": "0xfe4053D144A717b399DbcED7f73544DD709Aa030",
+      "symbol": "MCD",
+      "decimals": 18,
+      "chainId": 704851,
+      "logoURI": "https://i.ibb.co/TqKhvHF3/mcd.png"
+    },
+    {
+      "name": "MarsChain MCN",
+      "address": "0x12F6A7B74aaedd1b4332f4e14f502f81Dc068BD4",
+      "symbol": "MCN",
       "decimals": 18,
       "chainId": 704851,
       "logoURI": "https://i.ibb.co/27R9ryZx/BBM.png"
