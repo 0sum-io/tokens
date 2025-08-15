@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {
     "v3CoreFactoryAddress": "0x5984B8BF2d4dB9C0aCB1d7924762e4474D80C807",
@@ -77,7 +77,7 @@
       "symbol": "MCN",
       "decimals": 18,
       "chainId": 704851,
-      "logoURI": "https://i.ibb.co/27R9ryZx/BBM.png"
+      "logoURI": "https://i.ibb.co/hJW3XcZ1/mcn.jpg"
     }
   ]
 }
