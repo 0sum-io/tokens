@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {
     "v3CoreFactoryAddress": "0xF9Cf4A16d26979b929Be7176bAc4e7084975FCB8",
@@ -38,6 +38,22 @@
       "decimals": 18,
       "chainId": 421614,
       "logoURI": "https://i.ibb.co/Jws51wd3/tether-usdt-logo.png"
+    },
+    {
+      "name": "Token A",
+      "address": "0x77DB432aa8142029ffd16CcEE2118bC00edE33fd",
+      "symbol": "TKKNA",
+      "decimals": 18,
+      "chainId": 421614,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/3/34/Eo_circle_pink_white_letter-a.svg"
+    },
+    {
+      "name": "Token B",
+      "address": "0xFD6233F7D3F1B819551A2A68b9CeFcf2325C7F54",
+      "symbol": "TKKNB",
+      "decimals": 18,
+      "chainId": 421614,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Eo_circle_blue_white_letter-b.svg"
     }
   ]
 }
