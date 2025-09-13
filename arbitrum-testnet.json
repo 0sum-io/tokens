@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {
     "v3CoreFactoryAddress": "0xF9Cf4A16d26979b929Be7176bAc4e7084975FCB8",
@@ -29,7 +29,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 421614,
-      "logoURI": "https://cdn.worldvectorlogo.com/logos/ethereum-eth.svgg"
+      "logoURI": "https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg"
     },
     {
       "name": "Tether USD",
