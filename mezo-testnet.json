@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {
     "v3CoreFactoryAddress": "0xF9Cf4A16d26979b929Be7176bAc4e7084975FCB8",
@@ -25,7 +25,7 @@
   "tokens": [
     {
       "name": "Wrapped BTC",
-      "address": "0xF9Cf4A16d26979b929Be7176bAc4e7084975FCB8",
+      "address": "0x5Eaa741552d6af40C7bf46467EaF79EEA08EEa9F",
       "symbol": "WBTC",
       "decimals": 18,
       "chainId": 31611,
