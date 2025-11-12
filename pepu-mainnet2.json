@@ -20,7 +20,7 @@
     "quoterV2Address": "0xd647b2D80b48e93613Aa6982b85f8909578b4829",
     "swapRouter02": "0x150c3F0f16C3D9EB34351d7af9c961FeDc97A0fb"
   },
-  "logoURI": "https://i.ibb.co/zTx6yg67/e759ac10-d55b-42b5-a5d6-3f7c2dd97eb1.png",
+  "logoURI": "https://raw.githubusercontent.com/0x130N/gitimg/main/1762960550092-e759ac10-d55b-42b5-a5d6-3f7c2dd97eb1.png",
   "keywords": [],
   "tokens": [
     {
@@ -29,7 +29,7 @@
       "symbol": "WPEPU",
       "decimals": 18,
       "chainId": 97741,
-      "logoURI": "https://i.ibb.co/zTx6yg67/e759ac10-d55b-42b5-a5d6-3f7c2dd97eb1.png"
+      "logoURI": "https://raw.githubusercontent.com/0x130N/gitimg/main/1762960550092-e759ac10-d55b-42b5-a5d6-3f7c2dd97eb1.png"
     },
     {
       "name": "Tether USD",
@@ -37,7 +37,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 97741,
-      "logoURI": "https://i.ibb.co/tppynXCD/tether-usdt-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/0x130N/gitimg/main/1762960605382-tether-usdt-logo.png"
     },
     {
       "name": "USD Coin",
@@ -45,7 +45,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 97741,
-      "logoURI": "https://i.ibb.co/RprxnvC5/usd-coin-usdc-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/0x130N/gitimg/main/1762960832620-usd-coin-usdc-logo.png"
     },
     {
       "name": "Wrapped Ether",
@@ -53,7 +53,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 97741,
-      "logoURI": "https://i.ibb.co/BVNfLznd/eth.png"
+      "logoURI": "https://raw.githubusercontent.com/0x130N/gitimg/main/1762960881174-eth.png"
     }
   ]
 }
