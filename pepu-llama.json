@@ -1,0 +1,73 @@
+{
+  "name": "PEPU Whitelist Tokens",
+  "timestamp": "2026-01-09T03:38:27.528Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 97741,
+      "address": "0x06f69A40C33C5A4Cd038BBE1DA689D4D636Ec448",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/0x130N/gitimg/main/1762960605382-tether-usdt-logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "originBridgeAddress": "",
+            "destBridgeAddress": ""
+          }
+        },
+        "l1Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "l2GatewayAddress": "",
+        "l1GatewayAddress": ""
+      }
+    },
+    {
+      "chainId": 97741,
+      "address": "0x20fB684Bfc1aBAaD3AceC5712f2Aa30bd494dF74",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/0x130N/gitimg/main/1762960832620-usd-coin-usdc-logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "originBridgeAddress": "",
+            "destBridgeAddress": ""
+          }
+        },
+        "l1Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "l2GatewayAddress": "",
+        "l1GatewayAddress": ""
+      }
+    },
+    {
+      "chainId": 97741,
+      "address": "0x20fB684Bfc1aBAaD3AceC5712f2Aa30bd494dF74",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/0x130N/gitimg/main/1762960881174-eth.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "originBridgeAddress": "",
+            "destBridgeAddress": ""
+          }
+        },
+        "l1Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "l2GatewayAddress": "",
+        "l1GatewayAddress": ""
+      }
+    }
+  ],
+  "logoURI": "https://raw.githubusercontent.com/0x130N/gitimg/main/1769271064904-pepu.png",
+  "tags": {}
+}
